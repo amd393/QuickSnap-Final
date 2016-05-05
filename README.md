@@ -1,2 +1,2 @@
 # QuickSnap
-C# 3D Unity Exploration Game. Explore and Take Photos
+Final Quick Snap!! I ended up making this on in Unity 4
